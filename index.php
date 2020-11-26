@@ -7,7 +7,7 @@
 
   <?php
 
-  $host = "us-cdbr-east-02.cleardb.com/heroku_8af758a5bfbbeef";
+  $host = "us-cdbr-east-02.cleardb.com";
   $username = "b2d27009ffc4be";
   $password = "d1c00c7a";
   $database = "heroku_8af758a5bfbbeef";
